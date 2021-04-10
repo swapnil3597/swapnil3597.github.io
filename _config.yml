@@ -98,7 +98,7 @@ author:
   avatar           : "/assets/images/Formal_Photograph.jpg"
   bio              : "Machine Learning Engineer"
   location         : "Mumbai"
-  email            : # "swapnil3597@gmail.com"
+  email            : "swapnil3597@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -116,8 +116,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/swapnil3597"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/swapnil-masurekar/"
 
 # Site Footer
 footer:
