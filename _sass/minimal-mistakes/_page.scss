@@ -150,6 +150,10 @@ body {
     font-size: $type-size-6;
   }
 
+  .extrasmall {
+    font-size: $type-size-3;
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
